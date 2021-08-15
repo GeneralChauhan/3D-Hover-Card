@@ -12,7 +12,7 @@ body {
   align-items: center;
   justify-content: center;
   perspective: 1000px;
-  background: linear-gradient(to right top, #001144, #002255);
+  background: #ffffff;
 }
 .card {
   width: 50%;

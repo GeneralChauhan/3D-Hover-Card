@@ -85,7 +85,7 @@ body {
   font-weight: bold;
   color: #585858;
 }
-button.active {
+button.active:hover {
   background: #585858;
   color: white;
 }
